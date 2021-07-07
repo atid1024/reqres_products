@@ -2,7 +2,7 @@ version: 0.2
 
 env:
   variables:
-    IMAGE_REPO_NAME: "879772956301.dkr.ecr.eu-west-1.amazonaws.com/atid29-products"
+    IMAGE_REPO_NAME: "atid29-products"
 
 phases:
   install:
